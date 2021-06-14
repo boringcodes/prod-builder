@@ -2,7 +2,7 @@
   "name": "prod-builder",
   "description": "Boring Docker Production Builder",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/boringcodes/prod-builder",
   "bugs": "https://github.com/boringcodes/prod-builder/issues",
   "license": "MIT",
