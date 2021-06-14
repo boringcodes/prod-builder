@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>repo-template</h1>
-  <p>Boring GitHub Repository Template</p>
+  <h1>prod-builder</h1>
+  <p>Boring Docker Production Builder</p>
 
   <div>
     <a href="https://github.com/boringcodes/prod-builder/commits" aria-label="Commitizen Friendly">
